@@ -1,6 +1,6 @@
 {
-    "name": "smartervision/laravel-generator",
-    "description": "Smarter Vision Generator",
+    "name": "pretius-app/laravel-generator",
+    "description": "Pretius Generator",
     "keywords": [
         "laravel",
         "api",
@@ -16,16 +16,6 @@
         "swagger"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Smarter Vision",
-            "email": "smartersvision@gmail.com"
-        },
-        {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
-        }
-    ],
     "require": {
         "php": "^8.1",
         "illuminate/support": "^6.20",
